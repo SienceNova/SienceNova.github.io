@@ -1,0 +1,104 @@
+[
+    {
+        "categoria": "Partes de el cuerpo",
+        "pregunta": "¿Qué parte de el cuerpo es la que esta en la imagen?",
+        "respuesta": "mano",
+        "incorrecta1": "pierna",
+        "incorrecta2": "craneo",
+        "incorrecta3": "rodilla",
+        "imagen": "https://elcomercio.pe/resizer/F_USfnEwZz3qMVzUQvKsuHHLWis=/1200x900/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/OWBCITYFNFBFTP5NEJ7RYSUKOY.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "partes de el cuerpo",
+        "pregunta": "Cuales de las siguientes partes de el cuerpo son correctas?",
+        "respuesta": "cabeza,brazos,piernas,cabeza,espalda.",
+        "incorrecta1": "Las antenas,la piernas, las rodillas, los dientes .",
+        "incorrecta2": "las piernas,las pesuñas,la lengua.",
+        "incorrecta3": "todas son erroneas.",
+        "imagen": "https://img.menzig.fit/a/2000/2020-h2.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Partes de la cara",
+        "pregunta": "¿Con que parte de la cara se pueden sentir los olores?",
+        "respuesta": "nariz",
+        "incorrecta1": "pulgar",
+        "incorrecta2": "ojos",
+        "incorrecta3": "palmas",
+        "imagen": "https://images.ecestaticos.com/1IkT9JAplJR3-e0vAk5k2ikWSCQ=/184x0:1200x762/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4ef%2Ff53%2F819%2F4eff538196cd36328f646b333192fe53.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Partes de la cara",
+        "pregunta": "¿Cuantos ojos tienes?",
+        "respuesta": "2",
+        "incorrecta1": "1/5",
+        "incorrecta2": "3",
+        "incorrecta3": "1",
+        "imagen": "https://ojo.pe/resizer/SAyf19YGjVlw0scQROdU7FUwZNw=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/VW2ZXPLPGZCIRA3ENUZEUP2YGA.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Los planetas",
+        "pregunta": "¿Qué es un planeta?",
+        "respuesta": "Un planeta es un cuerpo celeste que gira alrededor de una estrella. Tiene una forma semejante a una esfera y no emite luz propia.",
+        "incorrecta1": "un planeta es un meteoroide que alcanza la superficie de un planeta debido a que no se desintegra por completo en la atmósfera.",
+        "incorrecta2": "un planeta es una esfera luminosa que mantiene su forma debido a su propia gravedad.",
+        "incorrecta3": "un planeta es es un conjunto de estrellas, nubes de gas, planetas, polvo cósmico, materia oscura y energía unidas gravitatoriamente en una estructura más o menos definida.",
+        "imagen": "https://s1.significados.com/foto/earth-11015-1920.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "orden de los planetas",
+        "pregunta": "¿Qué planeta es el que va despues de venus y antes que martes",
+        "respuesta": "La tierra",
+        "incorrecta1": "El sol",
+        "incorrecta2": "andromeda",
+        "incorrecta3": "kripton",
+        "imagen": "https://s1.significados.com/foto/earth-11015-1920.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+    "categoria": "planetas",
+    "pregunta": "¿Cual de estos planetas es real",
+    "respuesta": "venus",
+    "incorrecta1": "kripton",
+    "incorrecta2": "cybertron",
+    "incorrecta3": "pandora",
+    "imagen": "https://s1.significados.com/foto/earth-11015-1920.jpg",
+    "objectFit": "cover"
+    },
+    {
+    "categoria": "factores bioticos y abioticos",
+    "pregunta": "que factores son los que tienen un papel importante en la formación del ecosistema.",
+    "respuesta": "factores bioticos y abioticos.",
+    "incorrecta1": "factores clmaticos y la comida",
+    "incorrecta2": "factores vivos y quimicos",
+    "incorrecta3": "todas son correctas",
+    "imagen": "https://t2.ev.ltmcdn.com/es/posts/4/4/5/que_es_un_ecosistema_definicion_para_ninos_1544_600.jpg",
+    "objectFit": "cover"
+    },
+    {
+        "categoria": "factores abioticos",
+        "pregunta": "¿Cual de estos NO es un factor abiotico",
+        "respuesta": "hongos",
+        "incorrecta1": "clima",
+        "incorrecta2": "luz",
+        "incorrecta3": "termperatura",
+        "imagen": "https://t2.ev.ltmcdn.com/es/posts/0/9/0/ejemplos_de_factores_abioticos_3090_2_600.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "factores bioticos",
+        "pregunta": "Cual de los siguientes es un factor biotico",
+        "respuesta": "todas son correctas",
+        "incorrecta1": "animales",
+        "incorrecta2": "plantas",
+        "incorrecta3": "bacterias",
+        "imagen": "https://t2.ev.ltmcdn.com/es/posts/4/8/0/ejemplos_de_factores_bioticos_acuaticos_3084_5_600.webp",
+        "objectFit": "cover"
+    }
+]

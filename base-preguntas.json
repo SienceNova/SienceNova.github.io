@@ -1,0 +1,104 @@
+[
+    {
+        "categoria": "Animales voladores",
+        "pregunta": "¿Cual de los siguientes animales es una animal volador?",
+        "respuesta": "gaviota",
+        "incorrecta1": "perro",
+        "incorrecta2": "gato",
+        "incorrecta3": "pinguino",
+        "imagen": "https://www.lifeder.com/wp-content/uploads/2020/06/%C3%A1guila-calva-volando-foto-2-min.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Animales terrestres",
+        "pregunta": "Qué es un animal terrestre?",
+        "respuesta": "Los animales terrestres son animales que viven predominantemente o en su totalidad en la tierra.",
+        "incorrecta1": "Los animales terrestres son animales que comen insectos.",
+        "incorrecta2": "Los animales terrestres son animales que viven en la antartida.",
+        "incorrecta3": "Los animales terrestres son animales que ponen huevos.",
+        "imagen": "https://definicion.de/wp-content/uploads/2015/02/vaca-1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Animales acuaticos",
+        "pregunta": "¿Cual es un habitad adecuado para un animal marino?",
+        "respuesta": "Lago",
+        "incorrecta1": "Jungla",
+        "incorrecta2": "Decierto",
+        "incorrecta3": "Sabana",
+        "imagen": "https://concepto.de/wp-content/uploads/2019/10/animales-acuaticos-e1570892181578-800x400.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "mundo animal",
+        "pregunta": "¿Cual de las siguientes especies de animales componen el mundo animal?",
+        "respuesta": "Todas son correctas",
+        "incorrecta1": "mamiferos",
+        "incorrecta2": "reptiles",
+        "incorrecta3": "aves",
+        "imagen": "https://www.elpopular.pe/sites/default/files/imagen/2017/06/25/Noticia-183665-el-reino-animal.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "carnivoros",
+        "pregunta": "¿Cual es la forma de conseguir comida para los carnivoros?",
+        "respuesta": "depredación",
+        "incorrecta1": "la compran en el D1",
+        "incorrecta2": "no comen carne",
+        "incorrecta3": "comen insectos",
+        "imagen": "https://www.bioenciclopedia.com/wp-content/uploads/2011/11/tigre3-800.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "herviboros",
+        "pregunta": "¿Cual de las siguienets cosas podria consumir un animal herviboro?",
+        "respuesta": "hiervas",
+        "incorrecta1": "carne",
+        "incorrecta2": "insectos",
+        "incorrecta3": "hambuerguesas",
+        "imagen": "https://www.caracteristicas.co/wp-content/uploads/2018/07/oso-panda-4-e1571853417716.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+    "categoria": "omnivoros",
+    "pregunta": "¿Cual de estos animales es omnivoro?",
+    "respuesta": "oso",
+    "incorrecta1": "leon",
+    "incorrecta2": "burro",
+    "incorrecta3": "leopardo",
+    "imagen": "https://www.bioenciclopedia.com/wp-content/uploads/2013/12/mapache-800.jpg",
+    "objectFit": "cover"
+    },
+    {
+    "categoria": "insectivoros",
+    "pregunta": "Es correcto afirmar que:",
+    "respuesta": "entomófago es cualquier organismo depredador de insectos.",
+    "incorrecta1": "insectivoros son los animales que se alimentan de carne",
+    "incorrecta2": "entomófago es caulquier organismo depredador de vegetales",
+    "incorrecta3": "insectivoros son los animales que se alimentan de su propio popo",
+    "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/ALTL3FRRDNAP5BPIGIEB22OZI4.jpg",
+    "objectFit": "cover"
+    },
+    {
+        "categoria": "reino animal",
+        "pregunta": "¿uno de los reinos más biodiversos?",
+        "respuesta": "reino animal.",
+        "incorrecta1": "reino fungi",
+        "incorrecta2": "reino vegetal",
+        "incorrecta3": "reino monera",
+        "imagen": "https://www.caracteristicasdel.com/wp-content/uploads/2020/11/reinoanimal.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "reino vegetal",
+        "pregunta": "reino de organismos pluricelulares que crecen en la tierra y que absorben de ésta sus nutrientes",
+        "respuesta": "reino vegetal.",
+        "incorrecta1": "reino fungi",
+        "incorrecta2": "reino subatomico",
+        "incorrecta3": "reino animal",
+        "imagen": "https://concepto.de/wp-content/uploads/2019/09/plantas-e1569789166696-800x400.jpg",
+        "objectFit": "cover"
+    }
+]
